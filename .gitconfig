@@ -1,6 +1,6 @@
 [user]
-	email = mamunkc1@gmail.com
-	name = mamunkc
+	email = proot_me@googlegroups.com
+	name = PRoot
 [core]
 	editor = vim~
 [merge]
@@ -8,3 +8,8 @@
 [alias]
 	ci = commit
 	amend = ci
+[init]
+	defaultBranch = main
+[color]
+	diff = auto
+	interactive = auto
