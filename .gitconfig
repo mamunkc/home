@@ -1,0 +1,10 @@
+[user]
+	email = mamunkc1@gmail.com
+	name = mamunkc
+[core]
+	editor = vim~
+[merge]
+	tool = kdiff3
+[alias]
+	ci = commit
+	amend = ci
